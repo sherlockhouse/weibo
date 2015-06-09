@@ -1,0 +1,23 @@
+apply plugin: 'android-library'
+
+repositories {
+  jcenter()
+}
+
+dependencies {
+  compile 'com.android.support:support-v4:21.0.+'
+  compile 'com.nineoldandroids:library:2.4.0'
+}
+
+android {
+  compileSdkVersion 22
+  buildToolsVersion '22.0.1'
+  lintOptions {
+    abortOnError false
+  }
+  defaultConfig {
+    targetSdkVersion 22
+  }
+  productFlavors {
+  }
+}

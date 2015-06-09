@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libraries/PersistentSearch/PersistentSearch.iml" filepath="$PROJECT_DIR$/libraries/PersistentSearch/PersistentSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scratch.iml" filepath="$PROJECT_DIR$/Scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/SlidingUpPanel/SlidingUpPanel.iml" filepath="$PROJECT_DIR$/libraries/SlidingUpPanel/SlidingUpPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

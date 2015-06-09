@@ -1,0 +1,22 @@
+
+apply plugin: 'com.android.library'
+
+dependencies {
+    compile 'com.balysv.materialmenu:material-menu:1.5.1'
+}
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 22
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+    productFlavors {
+    }
+}
